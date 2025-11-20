@@ -11,7 +11,7 @@ body{
 .header {
     width: 100vw;
     height: 6vh;
-    background-color: red;
+    background-color: green;
     display: flex;
     align-items: center;
     justify-content: center;
